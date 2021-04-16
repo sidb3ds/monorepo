@@ -1,0 +1,2 @@
+com/example/monorepo/BuildConfig.java
+ com.example.monorepo.BuildConfig

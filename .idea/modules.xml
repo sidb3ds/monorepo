@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/monorepo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/monorepo.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app2/monorepo.app2.iml" filepath="$PROJECT_DIR$/.idea/modules/app2/monorepo.app2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/monorepo.base.iml" filepath="$PROJECT_DIR$/.idea/modules/base/monorepo.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/monorepo.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/monorepo.library.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/player/monorepo.player.iml" filepath="$PROJECT_DIR$/.idea/modules/player/monorepo.player.iml" />
     </modules>
   </component>
