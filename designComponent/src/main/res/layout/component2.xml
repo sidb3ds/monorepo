@@ -23,7 +23,7 @@
         android:layout_width="140dp"
         android:scaleType="fitXY"
         android:layout_height="140dp"
-        android:src="@drawable/image"
+        android:src="@drawable/ic_launcher_background"
         android:contentDescription="image" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

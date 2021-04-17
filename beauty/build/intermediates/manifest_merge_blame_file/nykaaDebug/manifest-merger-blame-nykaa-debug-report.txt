@@ -25,32 +25,31 @@
 17-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.Monorepo" >
-20-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:11:9-46
-21        <activity android:name="com.example.monorepo.view.MainActivity" >
-21-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:12:9-18:20
-21-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:12:19-52
-22            <intent-filter>
-22-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:14:17-69
-23-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:16:17-77
-25-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28        <activity
-28-->[:login] /home/siddhant.agarwal/MonorepoDemo/login/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:12:9-14:60
-29            android:name="com.example.player.ui.login.LoginActivity"
-29-->[:login] /home/siddhant.agarwal/MonorepoDemo/login/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:13:13-69
-30            android:label="@string/title_activity_login" />
-30-->[:login] /home/siddhant.agarwal/MonorepoDemo/login/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:14:13-57
-31        <activity android:name="com.example.pdp.view.PdpActivity" />
-31-->[:pdp] /home/siddhant.agarwal/MonorepoDemo/pdp/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:12:9-69
-31-->[:pdp] /home/siddhant.agarwal/MonorepoDemo/pdp/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:12:19-66
-32    </application>
-33
-34</manifest>
+19        android:theme="@style/Theme.Monorepo" >
+19-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:11:9-46
+20        <activity android:name="com.example.monorepo.view.MainActivity" >
+20-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:12:9-18:20
+20-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:12:19-52
+21            <intent-filter>
+21-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:13:13-17:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:14:17-69
+22-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:14:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:16:17-77
+24-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:16:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->[:login] /home/siddhant.agarwal/MonorepoDemo/login/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:12:9-14:60
+28            android:name="com.example.player.ui.login.LoginActivity"
+28-->[:login] /home/siddhant.agarwal/MonorepoDemo/login/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:13:13-69
+29            android:label="@string/title_activity_login" />
+29-->[:login] /home/siddhant.agarwal/MonorepoDemo/login/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:14:13-57
+30        <activity android:name="com.example.pdp.view.PdpActivity" />
+30-->[:pdp] /home/siddhant.agarwal/MonorepoDemo/pdp/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:12:9-69
+30-->[:pdp] /home/siddhant.agarwal/MonorepoDemo/pdp/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:12:19-66
+31    </application>
+32
+33</manifest>
