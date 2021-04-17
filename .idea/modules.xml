@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/monorepo.iml" filepath="$PROJECT_DIR$/.idea/modules/monorepo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/monorepo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/monorepo.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app2/monorepo.app2.iml" filepath="$PROJECT_DIR$/.idea/modules/app2/monorepo.app2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/monorepo.base.iml" filepath="$PROJECT_DIR$/.idea/modules/base/monorepo.base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/monorepo.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/monorepo.library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/player/monorepo.player.iml" filepath="$PROJECT_DIR$/.idea/modules/player/monorepo.player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/monorepo.beauty.iml" filepath="$PROJECT_DIR$/.idea/modules/app/monorepo.beauty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/monorepo.designComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/base/monorepo.designComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/player/monorepo.login.iml" filepath="$PROJECT_DIR$/.idea/modules/player/monorepo.login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/monorepo.network.iml" filepath="$PROJECT_DIR$/.idea/modules/library/monorepo.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app2/monorepo.nykaaD.iml" filepath="$PROJECT_DIR$/.idea/modules/app2/monorepo.nykaaD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdp/monorepo.pdp.iml" filepath="$PROJECT_DIR$/.idea/modules/pdp/monorepo.pdp.iml" />
     </modules>
   </component>
 </project>

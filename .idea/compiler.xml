@@ -2,10 +2,11 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
-      <module name="monorepo.app" target="1.8" />
-      <module name="monorepo.app2" target="1.8" />
-      <module name="monorepo.base" target="1.8" />
-      <module name="monorepo.player" target="1.8" />
+      <module name="monorepo.beauty" target="1.8" />
+      <module name="monorepo.designComponent" target="1.8" />
+      <module name="monorepo.login" target="1.8" />
+      <module name="monorepo.nykaaD" target="1.8" />
+      <module name="monorepo.pdp" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

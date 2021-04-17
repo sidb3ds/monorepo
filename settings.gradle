@@ -1,6 +1,7 @@
-include ':library'
-include ':player'
-include ':base'
-include ':app2'
-include ':app'
+include ':pdp'
+include ':network'
+include ':login'
+include ':designComponent'
+include ':nykaaD'
+include ':beauty'
 rootProject.name = "monorepo"

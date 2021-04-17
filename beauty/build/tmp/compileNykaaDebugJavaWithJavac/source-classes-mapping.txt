@@ -1,0 +1,6 @@
+com/example/monorepo/BuildConfig.java
+ com.example.monorepo.BuildConfig
+com/example/monorepo/DataBindingTriggerClass.java
+ com.example.monorepo.DataBindingTriggerClass
+com/example/monorepo/databinding/ActivityMainBinding.java
+ com.example.monorepo.databinding.ActivityMainBinding

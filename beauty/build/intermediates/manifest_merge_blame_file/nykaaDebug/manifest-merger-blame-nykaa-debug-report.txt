@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.monorepo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:5:5-19:19
+12        android:allowBackup="true"
+12-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.2] /home/siddhant.agarwal/.gradle/caches/transforms-2/files-2.1/f4726924add2327517ec5f23b6aa3aba/core-1.3.2/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.Monorepo" >
+20-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:11:9-46
+21        <activity android:name="com.example.monorepo.view.MainActivity" >
+21-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:12:9-18:20
+21-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:12:19-52
+22            <intent-filter>
+22-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:13:13-17:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:14:17-69
+23-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:16:17-77
+25-->/home/siddhant.agarwal/MonorepoDemo/beauty/src/main/AndroidManifest.xml:16:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity
+28-->[:login] /home/siddhant.agarwal/MonorepoDemo/login/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:12:9-14:60
+29            android:name="com.example.player.ui.login.LoginActivity"
+29-->[:login] /home/siddhant.agarwal/MonorepoDemo/login/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:13:13-69
+30            android:label="@string/title_activity_login" />
+30-->[:login] /home/siddhant.agarwal/MonorepoDemo/login/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:14:13-57
+31        <activity android:name="com.example.pdp.view.PdpActivity" />
+31-->[:pdp] /home/siddhant.agarwal/MonorepoDemo/pdp/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:12:9-69
+31-->[:pdp] /home/siddhant.agarwal/MonorepoDemo/pdp/build/intermediates/library_manifest/nykaaDebug/AndroidManifest.xml:12:19-66
+32    </application>
+33
+34</manifest>
