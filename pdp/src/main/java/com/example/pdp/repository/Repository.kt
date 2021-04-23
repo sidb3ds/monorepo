@@ -31,6 +31,14 @@ class Repository {
                 list.add(Component(1, "nykaad component 1"))
                 list.add(Component(2, "nykaad component 2"))
                 list.add(Component(3, "nykaad component 3"))
+                list.add(Component(1, "nykaad component 1"))
+                list.add(Component(2, "nykaad component 2"))
+                list.add(Component(3, "nykaad component 3"))
+                list.add(Component(3, "nykaad component 3"))
+                list.add(Component(3, "nykaad component 3"))
+                list.add(Component(1, "nykaad component 1"))
+                list.add(Component(2, "nykaad component 2"))
+                list.add(Component(3, "nykaad component 3"))
                 list.add(Component(3, "nykaad component 3"))
                 list
             }

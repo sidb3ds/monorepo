@@ -33,17 +33,17 @@ object WidgetBuilder {
         }
     }
 
-    private fun getComponent1ViewHolder(context: Context, parent: ViewGroup): Component1ViewHolder {
+    private fun getComponent1ViewHolder(context: Context, parent: ViewGroup): BaseViewHolder {
         val view = LayoutInflater.from(context).inflate(R.layout.component1, parent, false)
         return Component1ViewHolder(view)
     }
 
-    private fun getComponent2ViewHolder(context: Context, parent: ViewGroup): Component2ViewHolder {
+    private fun getComponent2ViewHolder(context: Context, parent: ViewGroup): BaseViewHolder {
         val view = LayoutInflater.from(context).inflate(R.layout.component2, parent, false)
         return Component2ViewHolder(view)
     }
 
-    private fun getComponent3ViewHolder(context: Context, parent: ViewGroup): Component3ViewHolder {
+    private fun getComponent3ViewHolder(context: Context, parent: ViewGroup): BaseViewHolder {
         val view = LayoutInflater.from(context).inflate(R.layout.component3, parent, false)
         return Component3ViewHolder(view)
     }
