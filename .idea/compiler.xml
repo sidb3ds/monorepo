@@ -5,6 +5,7 @@
       <module name="monorepo.beauty" target="1.8" />
       <module name="monorepo.designComponent" target="1.8" />
       <module name="monorepo.login" target="1.8" />
+      <module name="monorepo.networkTest" target="1.8" />
       <module name="monorepo.nykaaD" target="1.8" />
       <module name="monorepo.pdp" target="1.8" />
     </bytecodeTargetLevel>

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/monorepo.designComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/base/monorepo.designComponent.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/player/monorepo.login.iml" filepath="$PROJECT_DIR$/.idea/modules/player/monorepo.login.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/monorepo.network.iml" filepath="$PROJECT_DIR$/.idea/modules/library/monorepo.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/networkTest/monorepo.networkTest.iml" filepath="$PROJECT_DIR$/.idea/modules/networkTest/monorepo.networkTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app2/monorepo.nykaaD.iml" filepath="$PROJECT_DIR$/.idea/modules/app2/monorepo.nykaaD.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdp/monorepo.pdp.iml" filepath="$PROJECT_DIR$/.idea/modules/pdp/monorepo.pdp.iml" />
     </modules>
